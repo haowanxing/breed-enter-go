@@ -1,1 +1,1 @@
-module "github.com/haowanxing/breed-enter"
+module "github.com/haowanxing/breed-enter-go"

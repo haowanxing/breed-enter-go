@@ -1,5 +1,7 @@
 # Bread 启动中断工具Golang版本
 
+![](https://img.shields.io/cocoapods/v/Alamofire.svg?style=flat)
+
 > 该工具仅仅实现了发送中断命令，以减轻手动捅"菊花"的操作负担。
 
 ## 编译
