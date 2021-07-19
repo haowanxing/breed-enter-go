@@ -1,7 +1,7 @@
 # Bread 启动中断工具Golang版本
 
 ![](https://img.shields.io/badge/license-MIT-000000.svg)
-[![Build Status](https://www.travis-ci.org/haowanxing/breed-enter-go.svg?branch=master)](https://www.travis-ci.org/haowanxing/breed-enter-go)
+[![Build Status](https://www.travis-ci.com/haowanxing/breed-enter-go.svg?branch=main)](https://www.travis-ci.com/haowanxing/breed-enter-go)
 ![](https://img.shields.io/badge/language-Golang-green.svg)
 [![](https://img.shields.io/badge/website-imsry.cn-blue.svg)](https://www.imsry.cn)
 
