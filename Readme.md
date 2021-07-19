@@ -14,6 +14,8 @@ go build -o BreedEnter main.go
 
 ## 运行
 
+已发布的编译版本：[Releases1.0](https://github.com/haowanxing/breed-enter-go/releases/tag/v1.0)
+
 ### Linux环境：
 
 执行编译好的二进制文件：
@@ -27,5 +29,5 @@ go build -o BreedEnter main.go
 在CMD或PowerShell中运行:
 
 ```bash
-BreedEnter.exe
+breed-enter_windows_amd64.exe
 ```
